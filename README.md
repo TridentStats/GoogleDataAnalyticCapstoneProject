@@ -1,4 +1,4 @@
-# GoogleDataAnalyticCapstoneProject
+# Google Data Analytic Capstone Project
 
 This repo contains the R code I used to perform the analysis and create the data visualizations within my Capstone project for the Google Data Analytics Course offered by Coursera.
 
